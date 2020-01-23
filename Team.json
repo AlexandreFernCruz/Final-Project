@@ -1,0 +1,8 @@
+{
+  "team": [
+    { "nome": "Susana", "profissao": "Rececionista" },
+    { "nome": "Alexandre", "profissao": "CEO" },
+    { "nome": "Carlos", "profissao": "Detailer" },
+    { "nome": "Inês", "profissao": "Detailer" }
+  ]
+}
